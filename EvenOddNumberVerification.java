@@ -16,7 +16,7 @@ public class EvenOddNumberVerification
     System.out.println("==========================");
 	}
 	
-	public void VowelConstant()
+	public void vowelConstant()
 	{
 		char ch = 'z';
 		

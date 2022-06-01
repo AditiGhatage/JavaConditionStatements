@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class NestedIfElse 
 {
+	
 	@SuppressWarnings("resource")
 	public void studentPercent()
 	{

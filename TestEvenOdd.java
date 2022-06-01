@@ -6,7 +6,7 @@ public class TestEvenOdd {
 	{
 		EvenOddNumberVerification objEvenOddNumberVerification = new EvenOddNumberVerification();
 		objEvenOddNumberVerification.evenOddVerify();
-		objEvenOddNumberVerification.VowelConstant();
+		objEvenOddNumberVerification.vowelConstant();
 
 	}
 
